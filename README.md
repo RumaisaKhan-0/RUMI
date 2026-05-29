@@ -12,7 +12,7 @@ I'm a AIML student who loves building tech projects, exploring AI/ML, and learni
 * VS Code
 * Machine Learning Basics
 
-###  Interests
+###  Interests.
 
 * Artificial Intelligence & Machine Learning
 * Web Development
